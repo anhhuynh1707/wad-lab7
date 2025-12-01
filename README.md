@@ -26,8 +26,8 @@
 - [x] Validation
 - [x] Sorting
 - [x] Pagination
-- [ ] REST API (Bonus)
-- [ ] Export to Excel (Bonus)
+- [x] REST API (Bonus)
+- [x] Export to Excel (Bonus)
 
 ## Project Structure
 ```
