@@ -3,7 +3,7 @@
 ## Student Information
 - **Name:** Huỳnh Tuấn Anh
 - **Student ID:** ITITIU23003
-- **Class:** WAD_Group01_lab03_Tue1234
+- **Class:** Web Application Development_Group01_lab03_Tue1234
 
 ## Technologies Used
 - Spring Boot 3.3.x
@@ -27,6 +27,7 @@
 - [x] Sorting
 - [x] Pagination
 - [x] REST API (Bonus)
+- [ ] Image Upload (Bonus)
 - [x] Export to Excel (Bonus)
 
 ## Project Structure
@@ -41,7 +42,10 @@ templates/    - Thymeleaf views
 See `product_management.sql` for database structure.
 
 ## Known Issues
-- [List any bugs or limitations]
+- There are some confused because of working with Spring Boot and Maven for the first time.
+- Taking more time to understand how a Spring Boot project works (controller, services, repository, the "@" sign for mapping, validation, etc).
+- A little bit of struggle when using git in the terminal.
+- Understanding how REST API works.
 
 ## Time Spent
 Approximately 7.5 hours
